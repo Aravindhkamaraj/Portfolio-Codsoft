@@ -3,7 +3,7 @@ Portfolio Page
 
 ✨Introduction
 
-This project is a Portfolio Page created as part of my internship at CodSoft. It served as Task 1 during my internship, and it provided an opportunity to apply and enhance my web development skills.
+This project is a Portfolio Page created as part of my internship at CodSoft. It served as Task 2 during my internship, and it provided an opportunity to apply and enhance my web development skills.
 
 ⚙️Technologies Used
 
